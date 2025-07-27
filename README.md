@@ -13,3 +13,4 @@ Unix-like CLI in Windows written in Lua and C
 # Build
 Use [srlua](https://github.com/LuaDist/srlua) to build lua files to executable files.
 Run lua-build.bat to build
+> warning the lua source files is readable through hex-editors so obfuscate your code before building.
