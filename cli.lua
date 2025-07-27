@@ -1,3 +1,5 @@
+--Nano like text editor with this
+
 package.cpath = "./dep/?.dll;" .. package.cpath
 local ffi = require("ffi")
 local C = ffi.load("Kernel32")
